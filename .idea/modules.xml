@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Drowseniss_Detection_using_ML_kit.iml" filepath="$PROJECT_DIR$/.idea/modules/Drowseniss_Detection_using_ML_kit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Drowseniss_Detection_using_ML_kit.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Drowseniss_Detection_using_ML_kit.app.iml" />
+    </modules>
+  </component>
+</project>
